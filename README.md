@@ -1,11 +1,11 @@
-v1.0.2d
+v1.0.3
  ------------------------------
 
-MSLU - Maplestory Level Up!
+MSLU - MapleStory Level Up!
 
  ------------------------------
 
-This is an addon that will play the "LEVEL UP!" chime from Maplestory when you level up in WoW.
+This is an addon that will play the "LEVEL UP!" chime from MapleStory when you level up in WoW.
 
  ------------------------------
 
