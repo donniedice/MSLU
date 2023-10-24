@@ -3,11 +3,11 @@
 v1.0.7
 ------------------------------
 
-**MSLU - MapleStory Level Up!**
+**MSLU | MapleStory Level Up!**
 
 ------------------------------
 
-***MSLU - Maplestory Level Up! Will no longer be receiving updates. Functionality has been merged into [BLU - Better Level Up!](https://www.curseforge.com/wow/addons/blu-better-level-up "This link takes you to the Curseforge.com website, you may download it here and help support the developers."). If you're a fan of my sound addons, [BLU - Better Level Up!](https://www.curseforge.com/wow/addons/blu-better-level-up "This link takes you to the Curseforge.com website, you may download it here and help support the developers.") is available from all addon provider websites. Thank you!***
+***MSLU | Maplestory Level Up! Will no longer be receiving updates. Functionality has been merged into [BLU | Better Level Up!](https://www.curseforge.com/wow/addons/blu-better-level-up "This link takes you to the Curseforge.com website, you may download it here and help support the developers."). If you're a fan of my sound addons, [BLU | Better Level Up!](https://www.curseforge.com/wow/addons/blu-better-level-up "This link takes you to the Curseforge.com website, you may download it here and help support the developers.") is available from all addon provider websites. Thank you!***
 
 ------------------------------
 
