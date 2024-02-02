@@ -1,4 +1,4 @@
--- v1.0.8
+-- v1.0.9
 
 -- This script contains three event functions:
 -- 1. A function that plays a custom sound when the player levels up.
